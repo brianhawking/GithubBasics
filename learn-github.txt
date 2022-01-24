@@ -28,6 +28,14 @@ Configuring user information, installing and closing repos
 Stage & Snapshot
 Working with snapshots and Git staging
 
+• git status
+    -- show modified or staged files in working directory
+
+• git add
+    -- Add a file as it looks now to your next commit
+
+• git commit -m "message"
+    -- commit your staged content
 
 
 
