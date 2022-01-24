@@ -1,5 +1,5 @@
 Github 
-Git Cheat Sheet
+The greatest Git Cheat Sheet ever!
 
 
 
