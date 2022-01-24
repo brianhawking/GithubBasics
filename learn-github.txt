@@ -43,6 +43,8 @@ Configuring user information, installing and closing repos
 • git remote add [alias] [url]
     -- add a git URL as an alias
 
+• git fetch [alias]
+    -- fetch down all the branches from that Git remote
 
 
 
