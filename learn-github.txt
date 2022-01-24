@@ -1,0 +1,45 @@
+Github 
+Git Cheat Sheet
+
+
+
+Setup 
+Configuring user information used across all repos
+
+
+• git config –-global user.name <name> 
+    -- Set a name that is identifiable for credit in revision history
+
+
+
+Setup & Init
+Configuring user information, installing and closing repos
+
+
+• git init
+    -- Initializes the current directory as a git repo
+
+
+
+Stage & Snapshot
+Working with snapshots and Git staging
+
+
+
+
+
+Branch & Merge
+Isolating work in branches, changing context, and integrate changes
+
+
+
+Share & Update
+Configuring user information, installing and closing repos
+
+
+• git remote add [alias] [url]
+    -- add a git URL as an alias
+
+
+
+
