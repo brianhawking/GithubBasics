@@ -10,6 +10,9 @@ Configuring user information used across all repos
 • git config –-global user.name <name> 
     -- Set a name that is identifiable for credit in revision history
 
+• git config --global user.email <email address>
+    -- set an email address that will be associated with each history
+
 
 
 Setup & Init
